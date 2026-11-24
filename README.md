@@ -1,4 +1,15 @@
-#  Matrix: El Elegido
+# Matrix: El Elegido
+
+> Práctica académica de Wollok sobre colecciones y bloques, realizada en el marco de la formación en Programación con Objetos en UNAHUR.
+
+El ejercicio propone modelar una nave y sus pasajeros (Neo, Morfeo y Trinity), y resolver consultas y comportamientos utilizando colecciones: búsqueda, filtrado, agregación, ordenamiento y recorridos.
+
+**Tecnología:** Wollok 4.0.0  
+**Temas:** objetos, colecciones, bloques, predicados y operaciones de agregación.
+
+> Repositorio de práctica y aprendizaje. Se conserva el enunciado original como referencia del ejercicio.
+
+---
 
 ### Colecciones y bloques. Ejercicio breve 
 
